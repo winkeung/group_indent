@@ -9,7 +9,7 @@ Select the range you want to group,
 ---------------------+------------------+--------------------------------------------
  1 row, 1 column     | character        | from selected row to whole sheet
  1 row, >1 columns   | cell             | from selected top left cell to whole sheet
- >1 rows, 1 columns   | character        | selected rows
+ >1 rows, 1 column   | character        | selected rows
  >1 rows, >1 columns  | cell             | selected range 
 </pre>
 and call group_select()
