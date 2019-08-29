@@ -12,7 +12,7 @@ Select the range you want to group,
  >1 rows, 1 column   | character        | selected rows
  >1 rows, >1 columns  | cell             | selected range 
 </pre>
-and call group_select()
+and call group_selection()
 
 ![Alt text](images/group_char_indent.png)
 
